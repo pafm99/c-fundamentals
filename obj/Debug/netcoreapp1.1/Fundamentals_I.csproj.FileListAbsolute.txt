@@ -1,0 +1,8 @@
+/Users/paulfranco/Desktop/Fundamentals_I/bin/Debug/netcoreapp1.1/Fundamentals_I.deps.json
+/Users/paulfranco/Desktop/Fundamentals_I/bin/Debug/netcoreapp1.1/Fundamentals_I.runtimeconfig.json
+/Users/paulfranco/Desktop/Fundamentals_I/bin/Debug/netcoreapp1.1/Fundamentals_I.runtimeconfig.dev.json
+/Users/paulfranco/Desktop/Fundamentals_I/bin/Debug/netcoreapp1.1/Fundamentals_I.dll
+/Users/paulfranco/Desktop/Fundamentals_I/bin/Debug/netcoreapp1.1/Fundamentals_I.pdb
+/Users/paulfranco/Desktop/Fundamentals_I/obj/Debug/netcoreapp1.1/Fundamentals_I.AssemblyInfo.cs
+/Users/paulfranco/Desktop/Fundamentals_I/obj/Debug/netcoreapp1.1/Fundamentals_I.dll
+/Users/paulfranco/Desktop/Fundamentals_I/obj/Debug/netcoreapp1.1/Fundamentals_I.pdb
